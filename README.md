@@ -28,9 +28,9 @@ Sulfur is dropped from Sulfur Ore and is a crafting component for gunpowder and 
 
 Sulfur Blocks are highly flammable blocks crafted from Sulfur. If ignited with flint and steel or fire charges, all continuously adjacent Sulfur Blocks will immediately turn into fire.
 
-![Sulfur Blocks Before Being Ignited](https://github.com/professorg/SulfurMod/raw/master/images/sulfurblockdemo_pre.png)
+![Sulfur Blocks Before Being Ignited](https://github.com/professorg/SulfurMod/raw/master/images/sulfurblockdemo\_pre.png)
 
-![Sulfur Blocks After Being Ignited](https://github.com/professorg/SulfurMod/raw/master/images/sulfurblockdemo_post.png)
+![Sulfur Blocks After Being Ignited](https://github.com/professorg/SulfurMod/raw/master/images/sulfurblockdemo\_post.png)
 
 ## Recipes
 
