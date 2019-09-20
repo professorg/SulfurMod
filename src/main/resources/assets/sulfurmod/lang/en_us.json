@@ -1,0 +1,8 @@
+{
+  "item.sulfurmod.sulfur": "Sulfur",
+  "block.sulfurmod.sulfur_block": "Sulfur Block",
+  "block.sulfurmod.sulfur_ore": "Sulfur Ore",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.sulfurmod": "Sulfur Mod"
+}

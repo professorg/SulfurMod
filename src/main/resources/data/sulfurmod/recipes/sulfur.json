@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sulfurmod:sulfur_block"
+    }
+  ],
+  "result": {
+    "item": "sulfurmod:sulfur",
+    "count": 4
+  }
+}
