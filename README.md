@@ -40,7 +40,7 @@ Gunpowder can be crafted with one Sulfur and one coal or charcoal. The recipe is
 
 ![Gunpowder from Coal](https://github.com/professorg/SulfurMod/raw/master/images/gunpowderrecipe_coal.png)
 
-![Gunpowder from Charcoal](https://github.com/professorg/SulfurMod/raw/master/images/gunpowderrecipe_coal.png)
+![Gunpowder from Charcoal](https://github.com/professorg/SulfurMod/raw/master/images/gunpowderrecipe_charcoal.png)
 
 ### Sulfur Blocks
 
